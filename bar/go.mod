@@ -1,4 +1,4 @@
-module foo/bar
+module github.com/li-go/go-workspace-test/bar
 
 go 1.19
 

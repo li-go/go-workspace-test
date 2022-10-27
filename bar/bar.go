@@ -3,7 +3,8 @@ package main
 import (
 	"fmt"
 
-	"foo/hoge"
+	"github.com/li-go/go-workspace-test/hoge"
+
 	"golang.org/x/example/stringutil"
 )
 
